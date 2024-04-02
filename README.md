@@ -1,0 +1,2 @@
+# tryToClickMe
+Web mini-game
